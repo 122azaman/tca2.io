@@ -1,0 +1,32 @@
+h1 {
+  font-family: "Neonderthaw", cursive;
+}
+.navalign {
+  float: right;
+}
+
+#introcard {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-width: 15px;
+  border-color: #710910;
+  border-radius: 70px;
+  width: 90%;
+}
+
+#introimage {
+  border-radius: 70px;
+}
+
+#sidecard {
+  width: 90%;
+  height: 140%;
+}
+
+#sidebg {
+  height: 140%;
+}
+
+#solo {
+  width: 40%;
+}
